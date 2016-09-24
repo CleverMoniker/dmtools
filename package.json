@@ -1,0 +1,30 @@
+{
+  "name": "dmtools",
+  "version": "1.0.0",
+  "description": "DMing tools for Dave",
+  "main": "app.js",
+  "scripts":{
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "pg": "^6.1.0",
+    "react": "^15.3.2",
+    "postgresql": "^0.0.1",
+    "react-dom": "^15.3.2",
+    "react-redux": "^4.4.5",
+    "redux": "^3.6.0",
+    "sequelize": "^3.24.3"
+  },
+  "devDependencies": {},  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CleverMoniker/dmtools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CleverMoniker/dmtools/issues"
+  },
+  "homepage": "https://github.com/CleverMoniker/dmtools#readme"
+}
